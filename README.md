@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Thais Ines
 
-<!--
-**tineslee/tineslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora apaixonada por **React**, **IA** e **UX/UI**  
+Atualmente trabalhando em projetos de assistentes inteligentes  
+Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Thais GitHub stats](https://github-readme-stats.vercel.app/api?username=tineslee&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tineslee&layout=compact&theme=radical)
+
+---
+
+## 🌐 Onde me encontrar
+- https://huggingface.co/tineslee
+  
+---
+
+## ✨ Sobre mim
+Sou curiosa, criativa e adoro transformar ideias em código.  
+No momento, estou explorando o uso da **IA integrada a projetos front-end** através da criação de interfaces modernas em **React**, além da criação e treinamento de modelos.
+
