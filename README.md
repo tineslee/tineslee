@@ -1,8 +1,8 @@
 # Olá, eu sou a Thais Ines
 
 Desenvolvedora apaixonada por **React**, **IA** e **UX/UI**  
-Atualmente trabalhando em projetos de assistentes inteligentes  
-Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento  
+Atualmente trabalhando em projetos de assistentes inteligentes com react e transformers.js
+Sempre me aprimorando com novas tecnologias e boas práticas de desenvolvimento  
 
 ---
 
