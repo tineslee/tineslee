@@ -17,5 +17,6 @@ Atuo na criação de interfaces interativas com React, desenvolvimento de chatbo
 ---
 
 ## Atualmente:
-Me aprofundando em **TensorFlow** e **LangChain**. Explorando o uso da **IA integrada a projetos Front-end**, criando interfaces modernas com React, além de desenvolver e treinar modelos personalizados.
+Cursando tecnólogo em **Análise e Desenvolvimento de Sistemas**, com foco em expandir meus conhecimentos em programação e arquitetura de sistemas. Também me graduando em **Inteligência Artificial**, exercendo minha paixão pela IA e integrando-a principalmente ao Front-end, com soluções como chatbots inteligentes e engenharia de prompt. 
+Me aprofundando em **TensorFlow** e **LangChain**, explorando o uso da IA em interfaces modernas com React, além de desenvolver e treinar modelos personalizados.
 
