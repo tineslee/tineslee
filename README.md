@@ -12,7 +12,7 @@ Atuo na criação de interfaces interativas com React, desenvolvimento de chatbo
 ---
 
 ## Onde me encontrar
-- https://huggingface.co/tineslee
+- [https://huggingface.co/tinesslee](https://huggingface.co/tinesslee)
   
 ---
 
