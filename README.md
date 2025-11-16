@@ -1,7 +1,7 @@
 # Olá, eu sou a Thais Ines
 
 Sou desenvolvedora especializada em Front-end e Inteligência Artificial, apaixonada por **React**, **IA Generativa** e **UX/UI**. 
-Atuo na criação de interfaces interativas com React, desenvolvimento de chatbots inteligentes, modelos de linguagem (LLMs), integração de IA com o Front-end via API e engenharia de prompt. Estou sempre em busca de aprimoramento com novas tecnologias e boas práticas de desenvolvimento.
+Atuo na criação de interfaces interativas com React, desenvolvimento de chatbots inteligentes, modelos de linguagem (LLMs), integração de IA com o Front-end via API, Machine Learning e engenharia de prompt. Estou sempre em busca de aprimoramento com novas tecnologias e boas práticas de desenvolvimento.
 
 ---
 
