@@ -14,7 +14,7 @@
 
 Sou desenvolvedora especializada em Front-end e Inteligência Artificial, apaixonada por **React**, **IA Generativa** e **UX/UI**. Atuo na criação de interfaces interativas com React, desenvolvimento de chatbots inteligentes, modelos de linguagem (LLMs), integração de IA com o Front-end via API, machine learning e engenharia de prompt.
 
-💡 Tenho como diferencial ser proativa na busca por novas tecnologias e visionária quanto ao futuro da minha área de atuação. Meu interesse em Machine Learning Quântico reflete essa postura: explorar hoje o que será essencial amanhã. Poucas pessoas apresentam essa visão antecipada, e acredito que ela seja fundamental para construir soluções inovadoras e duradouras. Além disso, busco integrar a Inteligência Artificial aos projetos e soluções de Front-end, sempre com foco em inovação e qualidade.
+💡 Tenho como diferencial ser proativa na busca por novas tecnologias e visionária quanto ao futuro da minha área de atuação. Meu interesse em Machine Learning Quântico reflete essa postura: explorar hoje o que será essencial amanhã. Procuro antecipar tendências e acredito que essa visão seja fundamental para construir soluções inovadoras e duradouras. Além disso, busco integrar a Inteligência Artificial aos projetos e soluções de Front-end, sempre com foco em inovação e qualidade.
 
 ---
 
