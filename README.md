@@ -5,6 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervisionado-green)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a192f?style=flat&logo=cyberdefenders&logoColor=green)
 ![Purple Team](https://img.shields.io/badge/Purple-Team-6a0dad?style=flat&logo=hackthebox&logoColor=white)
+![Security](https://img.shields.io/badge/Offense%2BDefense-Security-444444?style=flat&logo=probot&logoColor=purple)
 ![Security](https://img.shields.io/badge/Security-Researcher-111111?style=flat-square&logo=kalilinux&logoColor=purple)
 
 
