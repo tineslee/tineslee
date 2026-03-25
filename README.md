@@ -8,7 +8,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
 
 
-Sou desenvolvedora, apaixonada por **dados**, **IA Generativa** e **estatística**. Atuo na criação de interfaces interativas com React, desenvolvimento de chatbots inteligentes, modelos de linguagem (LLMs), integração de IA via API e machine learning.
+Sou apaixonada por **Cibersegurança**, **IA Generativa**. Atuo na interseção entre Cibersegurança e Inteligência Artificial, criando uma proposta única de soluções e pesquisa.
 
 ---
 
@@ -32,13 +32,11 @@ Essa formação me permite aplicar conceitos biológicos em IA — como redes ne
 
 ## Onde me encontrar
 - [https://huggingface.co/tinesslee](https://huggingface.co/tinesslee)
-  
+- [https://www.linkedin.com/in/thais-ines-072629393/](https://www.linkedin.com/in/thais-ines-072629393/)
 ---
 
 ## Atualmente:
-- Me graduando em Inteligência Artificial, exercendo minha paixão pela IA e integrando-a principalmente ao Front-end, com soluções como chatbots inteligentes e engenharia de prompt.
+- Me graduando em Dados e Defesa Cibernética, exercendo minha paixão por ambos os campos, e integrando a IA principalmente ao SOC e SIEM.
 
-- Cursando também tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em expandir meus conhecimentos em programação e arquitetura de sistemas.
-
-- Me aprofundando em TensorFlow e LangChain, explorando o potencial da computação quântica aplicada à inteligência artificial, além de desenvolver e treinar modelos personalizados.
+- Me desenvolvendo também em técnicas de Red Team com foco em expandir meus conhecimentos de segurança, resistência e demais aplicações envolvendo modelos LLM.
 
