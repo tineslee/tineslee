@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![AI Generativa](https://img.shields.io/badge/IA-Generativa-purple?logo=openai)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervisionado-green)
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0a192f?style=for-the-badge&logo=cyberdefenders&logoColor=green)
-![Purple Team](https://img.shields.io/badge/Security-Purple%20Team-6a0dad?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Security Researcher](https://img.shields.io/badge/Security-Researcher-111111?style=for-the-badge&logo=kalilinux&logoColor=purple)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a192f?style=flat&logo=cyberdefenders&logoColor=green)
+![Purple Team](https://img.shields.io/badge/Purple-Team-6a0dad?style=flat&logo=hackthebox&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Researcher-111111?style=flat-square&logo=kalilinux&logoColor=purple)
 
 
 Sou apaixonada por **Cibersegurança** e **IA Generativa**. Atuo na interseção entre Cibersegurança e Inteligência Artificial, criando uma proposta única de soluções e pesquisa.
