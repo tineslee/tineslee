@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![AI Generativa](https://img.shields.io/badge/IA-Generativa-purple?logo=openai)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervisionado-green)
-![Quantum ML](https://img.shields.io/badge/Quantum-Machine%20Learning-orange)
-![LangChain](https://img.shields.io/badge/LangChain-Exploradora-blue)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0a192f?style=for-the-badge&logo=cyberdefenders&logoColor=green)
+![Purple Team](https://img.shields.io/badge/Security-Purple%20Team-6a0dad?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
 
 
