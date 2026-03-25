@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervisionado-green)
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0a192f?style=for-the-badge&logo=cyberdefenders&logoColor=green)
 ![Purple Team](https://img.shields.io/badge/Security-Purple%20Team-6a0dad?style=for-the-badge&logo=hackthebox&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
+![Security Researcher](https://img.shields.io/badge/Security-Researcher-111111?style=for-the-badge&logo=kalilinux&logoColor=purple)
 
 
 Sou apaixonada por **Cibersegurança** e **IA Generativa**. Atuo na interseção entre Cibersegurança e Inteligência Artificial, criando uma proposta única de soluções e pesquisa.
