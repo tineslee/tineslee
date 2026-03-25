@@ -8,7 +8,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
 
 
-Sou apaixonada por **Cibersegurança**, **IA Generativa**. Atuo na interseção entre Cibersegurança e Inteligência Artificial, criando uma proposta única de soluções e pesquisa.
+Sou apaixonada por **Cibersegurança** e **IA Generativa**. Atuo na interseção entre Cibersegurança e Inteligência Artificial, criando uma proposta única de soluções e pesquisa.
 
 ---
 
