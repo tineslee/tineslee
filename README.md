@@ -6,10 +6,9 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a192f?style=flat&logo=cyberdefenders&logoColor=green)
 ![Purple Team](https://img.shields.io/badge/Purple-Team-6a0dad?style=flat&logo=hackthebox&logoColor=white)
 ![Security](https://img.shields.io/badge/Offense%2BDefense-Security-444444?style=flat&logo=probot&logoColor=purple)
-![Security](https://img.shields.io/badge/Security-Researcher-111111?style=flat-square&logo=kalilinux&logoColor=purple)
 
 
-Sou apaixonada por **Cibersegurança** e **IA Generativa**. Atuo na interseção entre Cibersegurança e Inteligência Artificial, criando uma proposta única de soluções e pesquisa.
+Sou apaixonada por **Genética**, **IA Generativa** e **Cibersegurança**. Atuo na interseção entre Cibersegurança e Inteligência Artificial, criando uma proposta única de soluções e pesquisa.
 
 ---
 
